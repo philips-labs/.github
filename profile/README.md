@@ -2,7 +2,7 @@
 
 ## Philips Labs
 
-This organization will be used for Philips labs repositories. These projects are typically under development.
+This organization will be used for [Philips](https://philips.com) labs repositories. These projects are typically under development.
 
 ### More info
 
