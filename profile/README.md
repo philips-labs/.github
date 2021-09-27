@@ -1,4 +1,4 @@
-<img src="./images/Philips_logo.svg" align="right" width="175px" height="175px">
+<img src="https://github.com/philips-labs/.github/blob/main/profile/images/Philips_logo.svg" align="right" width="175px" height="175px">
 
 ## Philips Labs
 
