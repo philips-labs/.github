@@ -6,7 +6,8 @@ This organization will be used for Philips labs repositories. These projects are
 
 ### More info
 
-<https://github.com/philips-labs/about-this-organization>
+- <https://github.com/philips-labs/about-this-organization>
+- <https://philips.com/opensource>
 
 ### What type of repositories?
 - Early development
