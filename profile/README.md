@@ -7,7 +7,7 @@ This organization will be used for [Philips](https://philips.com) labs repositor
 ### More info
 
 - <https://github.com/philips-labs/about-this-organization>
-- <https://philips.com/opensource>
+- <https://www.philips.com/opensource> (internal link)
 
 ### What type of repositories?
 - Early development
