@@ -1,8 +1,6 @@
-<img src="https://github.com/philips-labs/.github/blob/main/profile/images/Philips_logo.svg" align="right" width="175px" height="175px">
+![Philips Labs](https://github.com/philips-labs/.github/blob/banner/profile/images/philips-banner.png)
 
-## Philips Labs
-
-This organization will be used for [Philips](https://philips.com) labs repositories. These projects are typically under development.
+This organization will be used for [Philips](https://philips.com) labs repositories. These projects are typically under development. These repositories are **public**.
 
 ### More info
 
@@ -10,7 +8,8 @@ This organization will be used for [Philips](https://philips.com) labs repositor
 - <https://www.philips.com/opensource> (internal link)
 
 ### What type of repositories?
-- Early development
-- Demo repositories
-- Small experiments
-- Examples
+
+- Open Source - Early development
+- Open Source - Demo repositories
+- Open Source - Small experiments
+- Open Source - Examples
